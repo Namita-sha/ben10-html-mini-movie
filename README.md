@@ -29,3 +29,4 @@ I could creatively apply HTML concepts in a storyline format
 How to Use
 1. Clone or download the repository
 2. Open `index.html` in any modern browser
+   git clone https://github.com/Namita-sha/ben10-html-mini-movie.git
